@@ -1,0 +1,1 @@
+All epic PREC recorded demos (games with mp_tournament 1) should go here.
