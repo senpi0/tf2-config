@@ -31,9 +31,10 @@ Scheme
 	// Ammo
 	////////////////////////////////////////////////////////////////////////////////////////////////////
 	
-		"bh_Ammo"													"255 255 255 255"
+		"bh_AmmoMain"												"255 255 255 255"
+		"bh_AmmoReserve"											"255 255 255 255"
 		"bh_AmmoLow"												"150 150 150 255"
-		"bh_AmmoLow_Shadow"											"186 032 032 255"
+		"bh_AmmoShadow"												"186 032 032 255"
 	
 	////////////////////////////////////////////////////////////////////////////////////////////////////
 	// Customization: Ammo and Health Box
@@ -60,7 +61,7 @@ Scheme
 		"bh_chargecolor1"											"243 157 048 255"	// When full, uber will change between these two values
 		"bh_chargecolor2"											"204 093 027 255"
 		"bh_chargemeter"											"255 255 255 170"	// Uber chargemeter fill color
-		"bh_chargemeterBG"											"150 150 150 70"	// Uber chargemeter background
+		"bh_chargemeterBG"											"150 150 150 070"	// Uber chargemeter background
 		
 	////////////////////////////////////////////////////////////////////////////////////////////////////
 	// Item Charge Meters
@@ -70,7 +71,7 @@ Scheme
 		"bh_meterbg"												"254 002 209 255"
 		"bh_metertext"												"254 002 209 255"
 		
-////////////////////////////////////////////////////////////////////////////////////////////////////
+	////////////////////////////////////////////////////////////////////////////////////////////////////
 	// Crosshair Colors
 	// ============================================================================================== //
 	// These crosshair colors are kept separated just in case you use multiple crosshairs and want to
@@ -80,20 +81,20 @@ Scheme
 		//////////////////////
 		// whayay's Crosshairs
 		//////////////////////
-		"ya_crosshair"												"0 0 0 0" 	// Crosshair color
+		"ya_crosshair"												"000 000 000 000"  	// Crosshair color
 		"ya_crosshairflash"											"243 247 199 255"	// Flash on damage done
 		
 		///////////////////
 		// Fog's Crosshairs
 		///////////////////
-		"fog_crosshair"												"0 0 0 0"	// Crosshair color
+		"fog_crosshair"												"000 000 000 000"	// Crosshair color
 		"fog_crosshairflash"										"255 255 255 255"	// Flash on damage done
 	
 		///////////////////////
 		// knuckles' Crosshairs
 		///////////////////////
 		"knuckles_crosshair"										"255 255 255 255" 	// Crosshair color
-		"knuckles_crosshairflash"									"0 0 0 0"	// Flash on damage done
+		"knuckles_crosshairflash"									"000 000 000 000"	// Flash on damage done
 		
 	////////////////////////////////////////////////////////////////////////////////////////////////////
 	// Menu Colors
@@ -264,6 +265,8 @@ Scheme
 		"LabelTransparent"											"255 000 255 255"		// Unknown
 		
 		"BuildMenuActive"											"000 255 255 255"		// Unknown
+		
+		// "QualityColorNormal"										"255 0 0 255"			// Stock item name color
 	}
 
 	////////////////////////////////////////////////////////////////////////////////////////////////////
