@@ -418,13 +418,13 @@
 
 	HudVoiceStatus
 	{
-		"wide" 														"145"
+		"wide" 														"160"
 		"tall" 														"400"
 
-		"item_wide"													"100"
+		"item_wide"													"120"
 		
 		"show_avatar"												"1"
-		"avatar_xpos"												"0"
+		"avatar_xpos"												"-10"
 		
 		"show_dead_icon"											"1"
 		"dead_xpos"													"0"		// 95
