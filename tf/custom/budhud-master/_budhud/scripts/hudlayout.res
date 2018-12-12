@@ -439,7 +439,7 @@
 		"icon_tall"													"12"
 		"icon_wide"													"12"
 
-		"text_xpos"													"12"
+		"text_xpos"													"20"
 		"text_wide"													"88"
 	}
 
