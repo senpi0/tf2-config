@@ -25,7 +25,7 @@ Scheme
 		"bh_HealthShadow"											"000 000 000 255"
 		"bh_HealthLow"												"186 032 032 255"
 		"bh_HealthBuff"												"000 153 255 255"
-		"bh_HealthPickup"											"240 134 049 255"
+		"bh_HealthPickup"											"000 168 224 255"
 		
 	////////////////////////////////////////////////////////////////////////////////////////////////////
 	// Ammo
@@ -107,8 +107,8 @@ Scheme
 		//////////
 		"bh_menu_foreground1"										"255 255 255 255" 	// White
 		"bh_menu_foreground2"										"255 255 255 255"	// White
-		"bh_menu_background1"										"240 134 049 255"	// Orange
-		"bh_menu_background2"										"240 134 049 255"	// Orange
+		"bh_menu_background1"										"000 168 224 255"	// Cyan
+		"bh_menu_background2"										"000 168 224 255"	// Cyan
 	
 		//////////
 		// January
@@ -143,22 +143,22 @@ Scheme
 		/////////////////////////////
 		// Loading Screen Text Colors
 		/////////////////////////////
-		"bh_onyourway"												"240 134 049 255"
+		"bh_onyourway"												"000 168 224 255"
 		"bh_mapname"												"255 255 255 255"
 		"bh_maptype"												"255 255 255 255"
 	
 		//////////
 		// Default
 		//////////
-		"bh_bar1"													"150 150 150 255"
-		"bh_bar2"													"140 140 140 255"
-		"bh_bar3"													"130 130 130 255"
-		"bh_bar4"													"120 120 120 255"
-		"bh_bar5"													"110 110 110 255"
-		"bh_bar6"													"100 100 100 255"
-		"bh_bar7"													"090 090 090 255"
-		"bh_bar8"													"080 080 080 255"
-		"bh_bar9"													"070 070 070 255"		
+		"bh_bar1"													"000 145 255 255"
+		"bh_bar2"													"000 138 243 255"
+		"bh_bar3"													"000 131 231 255"
+		"bh_bar4"													"000 124 219 255"
+		"bh_bar5"													"000 117 207 255"
+		"bh_bar6"													"000 111 195 255"
+		"bh_bar7"													"000 104 183 255"
+		"bh_bar8"													"000 097 171 255"
+		"bh_bar9"													"000 090 159 255"		
 		
 		//////////
 		// October
@@ -212,10 +212,10 @@ Scheme
 		"bh_dgray"													"100 100 100 255"
 		"bh_gray"													"150 150 150 255"
 		"bh_gray_t"													"150 150 150 064"
-		"bh_lorange"												"243 157 048 255"
-		"bh_dorange"												"204 093 027 255"
-		"bh_orange"													"240 134 049 255"
-		"bh_orange_t"												"240 134 049 064"
+		"bh_lorange"												"000 173 236 255"		// Actually Light Cyan
+		"bh_dorange"												"000 121 165 255"		// Actually Dark Cyan
+		"bh_orange"													"000 168 224 255"		// Actually Cyan Though
+		"bh_orange_t"												"000 168 224 255"		// Actually Cyan Though
 		"bh_green"													"077 116 085 255"
 		"bh_red"													"159 055 055 255"
 		"bh_red_t"													"159 055 055 128"
@@ -240,14 +240,14 @@ Scheme
 
 		"bh_ButtonDefault"											"255 255 255 255"		// White
 		"bh_ButtonBlank"											"000 000 000 000"
-		"bh_ButtonArmed"											"240 134 049 255"		// Orange
+		"bh_ButtonArmed"											"000 168 224 255"		// Cyan
 		"bh_ButtonDepressed"										"255 255 255 255"		// White
 		"bh_ButtonBGDefault"										"015 015 015 255"
 		"bh_ButtonBGArmed"											"035 035 035 255"
 		"bh_ButtonBGDepressed"										"035 035 035 255"		
 
 		"TFOrange"													"085 085 085 255"		// Backpack page number BG (selected page color)
-		"Orange"													"240 134 049 255"
+		"Orange"													"000 168 224 255"		// Guess What? Cyan
 		"LightRed"													"255 255 255 255"
 		"LighterRed"												"255 255 255 255"
 		"TanLight"													"255 255 255 255"
