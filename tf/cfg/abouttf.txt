@@ -1,0 +1,6 @@
+//CONFIG BY @senpi_0
+//Resolution - 1920x1080
+//Mouse - DPI - 900 | Windows Pointer Speed - 6/11 |
+//ASCII Art made with http://patorjk.com/software/taag/
+//Launch Options:
+// +exec _senpi0tf -r_emulate_gl -sw -noborder -w 1920 -h 1080 -console -novid -nojoy -nosteamcontroller -language english -tickrate 128 -refresh 61 -freq 61 -threads 8 -noaafonts -nod3d9ex1 -useforcedmparms -softparticlesdefaultoff -reuse
